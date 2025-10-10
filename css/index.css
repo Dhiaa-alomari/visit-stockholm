@@ -253,7 +253,7 @@ img{
 }
 /*Showcase*/
 .showcase{
- background:url("../images/stockholm-banner.jpg") no-repeat center center/ cover;
+ background:url("../images/stockholm-banner.webp") no-repeat center center/ cover;
  height:400px;
  background-color: var(--primary-color);
  color:#fff;
@@ -342,6 +342,7 @@ img{
 }
 .Intrested .card img{
  height: -webkit-fill-available;
+ width: 200px;
 }
 
 /*  Gallery Content */
@@ -387,7 +388,11 @@ img{
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    box-sizing: border-box; /* Important for padding */
+    box-sizing: border-box;
+}
+
+input[type="text"],input[type="email"], textarea{
+    font-size: 16px !important; 
 }
 
 .submit-btn {
