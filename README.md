@@ -1,2 +1,2 @@
-## Visit Stockholm
+# Visit Stockholm
 ---
