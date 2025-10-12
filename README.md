@@ -11,7 +11,7 @@ The project deployed on Github Pages.
 *  On most devices it is responsive.
 <br>
 <img src="images/it-is-responsive.png" style="max-width:100%" alt="The website is full responsive with all screens"/>
----
+
 ## Languages
 
 * HTML
@@ -45,7 +45,7 @@ Includes three pages [Home-Gallery-Contactus]
 <br>
 <img src="images/screenshot-mobile-contact.png" style="max-width:150px;" alt="Screenshot for Contact us page in desktop"/>
 <br>
----
+
 ## Wireframe
 *   <u>Desktop Design:</u>
 1. Home Page:
