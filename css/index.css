@@ -478,6 +478,7 @@ input[type="text"],input[type="email"], textarea{
 @media (max-width:500px){
  .navbar{
   height:110px;
+  overflow: hidden;
  }
  .navbar .flex{
   flex-direction: column;
