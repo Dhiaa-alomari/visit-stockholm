@@ -345,6 +345,10 @@ img{
 }
 
 /*  Gallery Content */
+#gallery h2{
+  text-align: center;
+  display: none;
+}
 #photos {
  column-count: 4;
  gap: 0;
