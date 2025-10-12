@@ -335,7 +335,7 @@ img{
  border-radius: 50%;
 }
 .Intrested .card img{
- height: fill-available;
+ height: 100%;
  width: 200px;
 }
 
