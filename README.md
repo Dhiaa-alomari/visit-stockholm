@@ -1,135 +1,108 @@
 # Visit Stockholm
 ---
 A static website created by using html and css programming languages and this website gives a simple overview about Sweden capital Stockhoml.
+---
 **Link to visit website**
 [visitStockholm](https://dhiaa-alomari.github.io/visit-stockholm/)
-
-## Responsive Design
-*  It has a responsive design that works with most devices.
-
-<img src="assets/images/mockup.png" style="max-width:100%" alt="Mockup of World Cup Story website on multi device"/>
-
-## Script Languages Used
+<br>
+The project deployed on Github Pages.
+---
+## I am Responsive
+*  On most devices it is responsive.
+<br>
+<img src="images/it-is-responsive.png" style="max-width:100%" alt="The website is full responsive with all screens"/>
+---
+## Languages
 
 * HTML
 * CSS
+---
+## Images and fonts
 
-## Technologies Used
-
-*  Adobe Photoshop (Edit raster images).
-*  Adobe Illustrator (Design a logo as a vector Image).
-*  Formsubmit.co (Connect my form to this form endpoint service).
-*  Chatgpt (to support and answer on my questions).
-*  Git & Github (save my project files and deploy my project on GitHub Pages).
-
-## Sources of images, fonts and information
-
-*  Images from Adobe Stock.
-*  Fonts and icons from Google Fonts.
-*  Information from Chatgpt.
-
+*  Images from Wikipedia and fonts from Google Fonts.
+*  Icons from Fontawesome.
+---
 ## Screenshots
-
-*       World Cup Story Website has Three Pages.
-1.  _Home Page (Hero Section, Gallery, Facts)_:
+Includes three pages [Home-Gallery-Contactus]
+<br> Below Screenshots for website on desktop and mobile:
+1.  Home page:
 <br>
-       <img src="assets/images/homepage_hero.png" style="max-width:250px;" alt="Hero section in home page"/>
-       <img src="assets/images/homepage_gallery.png" style="max-width:250px" alt="Gallery section in homepage"/>
-       <img src="assets/images/homepage_facts.png" style="max-width:250px" alt="Facts section in homepage"/>
+<img src="images/screenshot-desktop-home.png" style="max-width:200px;" alt="Screenshot for Home page in desktop"/>
+<br>
+<img src="images/screenshot-mobile-home.png" style="max-width:150px;" alt="Screenshot for Home page in desktop"/>
 <br>     
 
-2. *Timeline (Hero Section, Tournaments)*:
+2. Gallery page:
 <br>
-    <img src="assets/images/timeline_hero.png" style="max-width:250px;" alt="Hero section in timeline"/>
-    <img src="assets/images/timeline_tournaments.png" style="max-width:250px" alt="Tournaments section in timeline"/>
+<img src="images/screenshot-desktop-gallery.png" style="max-width:200px;" alt="Screenshot for Gallery page in desktop"/>
 <br>
-  
-3.  *Contact Us (Hero Section, Form)*:
-<br>
-    <img src="assets/images/contactus_hero.png" style="max-width:250px" alt="Hero section in contactus"/>
-    <img src="assets/images/contactus_form.png" style="max-width:250px" alt="Form section in contactus"/>
+<img src="images/screenshot-mobile-gallery.png" style="max-width:150px;" alt="Screenshot for Gallery page in desktop"/>
 <br>
   
-## Design(Wireframes)
-*   **<u>Desktop Design:</u>**
-1.  _Home Page_:
+3. Contact us page:
 <br>
-        <img src="assets/images/homepage_desktop.png" style="max-width:200px" alt="homepage wireframe to desktop"/>
+<img src="images/screenshot-desktop-contact.png" style="max-width:200px;" alt="Screenshot for Contact us page in desktop"/>
 <br>
-2.  _Timeline Page_:
+<img src="images/screenshot-mobile-contact.png" style="max-width:150px;" alt="Screenshot for Contact us page in desktop"/>
 <br>
-        <img src="assets/images/timeline_desktop.png" style="max-width:200px" alt="timeline page wireframe to desktop"/>
+---
+## Wireframe
+*   <u>Desktop Design:</u>
+1. Home Page:
 <br>
-3.  _Contact Page_:
+<img src="images/wireframe-desktop-home.png" style="max-width:200px" alt="wireframe for home page in desktop"/>
 <br>
-        <img src="assets/images/contactus_desktop.png" style="max-width:200px" alt="contact us page framework to desktop"/>
+2. Gallery page:
 <br>
-
-*   **<u>Mobile Design:</u>**
-1.  _Home Page_:
+<img src="images/wireframe-desktop-gallery.png" style="max-width:200px" alt="wireframe for gallery page in desktop"/>
 <br>
-        <img src="assets/images/homepage_mobile.png" style="max-height:100vh; max-width:150px" alt="homepage wireframe to mobile"/>
+3.  Contact us page:
 <br>
-2.  _Timeline Page_:
-<br>
-        <img src="assets/images/timeline_mobile.png" style="max-height:100vh; max-width:150px" alt="timeline page wireframe to mobile"/>
-<br>
-3.  _Contact Page_:
-<br>
-        <img src="assets/images/contactus_mobile.png" style="max-height:100vh; max-width:150px" alt="contact us page framework to mobile"/>
+<img src="images/wireframe-desktop-contactus.png" style="max-width:200px" alt="wireframe for contact page in desktop"/>
 <br>
 
-        
-## Testing
-*       By(W3C CSS Validator/ W3C HTML Validator)
+*  <u>Mobile Design:</u>
+1.  Home page:
+<br>
+<img src="images/wireframe-mobile-home.jpeg" style="max-width:150px" alt="home page wireframe in mobile"/>
+<br>
+2.  Gallery page:
+<br>
+<img src="images/wireframe-mobile-gallery.jpeg" style="max-width:150px" alt="gallery page wireframe in mobile"/>
+<br>
+3.  Contact Page:
+<br>
+<img src="images/wireframe-mobile-contact.jpeg" style="max-width:150px" alt="contact us page wireframe in mobile"/>
+<br>
+      
+## CSS & HTML codes are tested
+*  All the codes in the project are tested in service [**<u>W3C CSS & HTML Validator</u>**]
 
-My website has been tested and includes a responsive design, a readable navbar, and a working form with enhanced UI and UX.
-
-*   **<u>Test HTML files:</u>**
-1.  _index.html_:
+*  <u>HTML files tested:</u>
+1.  index.html:
 <br>
-        <img src="assets/images/test_html_1.png" style="max-width:180px" alt="Show result of testing index.html"/>
+<img src="images/html-validator-index.png" style="max-width:200px" alt="No Error in index.html"/>
 <br>
-2.  _timeline.html_:
+2.  gallery.html:
 <br>
-        <img src="assets/images/test_html_2.png" style="max-width:180px" alt="Show result of testing timeline.html"/>
+<img src="images/html-validator-gallery.png" style="max-width:200px" alt="No Error in gallery.html"/>
 <br>
 3.  _contactus.html_:
 <br>
-        <img src="assets/images/test_html_3.png" style="max-width:180px" alt="Show result of testing contactus,html"/>
+<img src="images/html-validator-contact.png" style="max-width:200px" alt="No Error in contactus.html"/>
 <br><br>
 
-*   **<u>Test CSS files:</u>**
-1.  _style.css_:
+*  <u>CSS files tested :</u>
+1.  index.css:
 <br>
-        <img src="assets/images/test_css_1.png" style="max-width:180px" alt="Show result of testing style.css"/>
-<br>
-2.  _index.css_:
-<br>
-        <img src="assets/images/test_css_2.png" style="max-width:180px" alt="Show result of testing index.css"/>
-<br>
-3.  _timeline.css_:
-<br>
-        <img src="assets/images/test_css_3.png" style="max-width:180px" alt="Show result of testing timeline.css"/>
-<br>
-4.  _contactus.css_:
-<br>
-        <img src="assets/images/test_css_4.png" style="max-width:180px" alt="Show result of testing contactus.css"/>
+<img src="images/css-validator.png" style="max-width:200px" alt="No Error in index.css"/>
 <br>
 
-*   **<u>Test Website by Lighthouse Tool from Google Chrome:</u>**
-1.  _Performance, SEO, Accessibility and Prctice_:
+* <u>Website tested at Lighthouse in Chrome browser:</u>
+<br>
+| Performance | Accessibility | Best Prctice | SEO |
 <br><br>
-        <img src="assets/images/test_lighthouse.png" style="max-width:180px" alt="Show result of testing Performance SEO Accessibility"/>
+<img src="images/test-lighthouse.png" style="max-width:200px" alt="A good result at testing by lighthouse for performance"/>
 <br>
 
-## Unfixed bugs
-* None
-
-## Deployment
-*       The project is being deployed on GitHub Pages.
-<br>
-* <a href="https://tal-81.github.io/World-Cup-Story/" target="_blank">Click here to visit 🏆 <strong> World Cup Story <strong> Website</a>
-<br><br>
-
-[Back Top](#world-cup-story)
+* No bugs in website.
