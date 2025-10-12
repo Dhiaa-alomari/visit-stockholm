@@ -241,7 +241,6 @@ img{
  justify-content: space-between;  
 }
 .sticky{
- position: -webkit-sticky;
  position: sticky;
  top: -1px;
  z-index: 200;
@@ -290,10 +289,6 @@ img{
  left:0;
  z-index: 0;
  transform: skewY(-3deg);
- -webkit-transform: skewY(-3deg);
- -ms-transform: skewY(-3deg);
- -o-transform: skewY(-3deg);
- -moz-transform: skewY(-3deg);
 }
 /*Stats*/
 .stats{
@@ -340,7 +335,7 @@ img{
  border-radius: 50%;
 }
 .Intrested .card img{
- height: -webkit-fill-available;
+ height: fill-available;
  width: 200px;
 }
 
