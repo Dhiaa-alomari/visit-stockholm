@@ -16,11 +16,6 @@ The project deployed on Github Pages.
 * HTML
 * CSS
 ---
-## Images and fonts
-
-*  Images from Wikipedia and fonts from Google Fonts.
-*  Icons from Fontawesome.
----
 ## Screenshots
 Includes three pages [Home-Gallery-Contactus]
 <br> Below Screenshots for website on desktop and mobile:
@@ -123,4 +118,54 @@ Add target="_blank" attribute to the anchor HTML elements for social media icons
 2.  <u>Footer of contact-us page not stay at bottom of the page!</u>
 
 Make the height of main section min-height:100vh so footer section will always stay at bottom of the page.
+
+## Deployment
+
+### GitHub Pages
+
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+1. In the GitHub repository, navigate to the Settings tab 
+2. From the left hand menu select 'Pages'
+3. From the source select Branch: main
+4. Click 'Save'
+5. A live link will be displayed when published successfully. 
+
+The live link can be found here - [visitStockholm](https://dhiaa-alomari.github.io/visit-stockholm/)
+
+### Forking the GitHub Repository
+
+You can fork the repository by following these steps:
+1. Go to the GitHub repository
+1. Click on Fork button in upper right hand corner
+
+### Cloning the GitHub Repository
+
+You can clone the repository to use locally by following these steps:
+1. Navigate to the GitHub Repository you want to clone
+2. Click on the code drop down button
+3. Click on HTTPS
+4. Copy the repository link to the clipboard
+5. Open your IDE of choice (git must be installed for the next steps)
+6. Type git clone copied-git-url into the IDE terminal
+
+The project will now be cloned locally for you to use.
+
+##  Attributions
+
+### Images and fonts
+
+*  Images from Wikipedia. 
+*  fonts from Google Fonts.
+*  Icons from Fontawesome.
+
+### Info and text
+
+* Wikipedia.
+
+### Debugs
+* Some bugs fixed by Chatgpt.
+
+### Inspiration
+* [https://www.visitstockholm.com/](https://www.visitstockholm.com/)
+
 
