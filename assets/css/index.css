@@ -280,17 +280,6 @@ img{
 .showcase-text{
  animation: slideInFromLeft 1s ease-in
 }
-.showcase::before, .showcase::after{
- content:'';
- position: absolute;
- height:100px;
- background-color: #fff;
- bottom: -70px;
- right:0;
- left:0;
- z-index: 0;
- transform: skewY(-3deg);
-}
 /*Stats*/
 .stats{
  padding:100px;
