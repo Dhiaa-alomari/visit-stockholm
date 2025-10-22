@@ -102,6 +102,25 @@ Includes three pages [Home-Gallery-Contactus]
 | Performance | Accessibility | Best Prctice | SEO |
 <br><br>
 <img src="assets/images/test-lighthouse.png" style="max-width:200px" alt="A good result at testing by lighthouse for performance"/>
-<br>
 
-* No bugs in website.
+
+
+## User Stories
+
+As a visitor to the website, I want to...
+
+*   **As a** tourist planning a trip to Stockholm, **I want to** see the top attractions and learn about them, **so that I can** plan my itinerary easily.
+*   **As a** visual person, **I want to** browse a gallery of high-quality photos of Stockholm, **so that I can** get a sense of the city's beauty and feel inspired.
+*   **As a** website visitor who has a question, **I want to** find a clear "Contact Us" page, **so that I can** get in touch with the site administrator.
+*   **As a** new visitor to the site, **I want to** find a welcoming introduction to Stockholm on the homepage, **so that I can** quickly understand what the city has to offer.
+*   **As someone** looking for inspiration, **I want to** view beautiful photos of different Stockholm locations in the gallery, **so that I can** discover new places to visit.
+
+##  Debug
+1.  <u>Open social media links in new tab!</U>
+
+Add target="_blank" attribute to the anchor HTML elements for social media icons in the footer section. This ensures that users can follow social media accounts without leaving the main website.
+
+2.  <u>Footer of contact-us page not stay at bottom of the page!</u>
+
+Make the height of main section min-height:100vh so footer section will always stay at bottom of the page.
+
