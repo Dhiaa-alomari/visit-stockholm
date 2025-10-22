@@ -351,6 +351,7 @@ img{
 /* Contact Form */
 #main-form{
  width: 50%;
+ min-height: 100vh;
  margin: 2rem auto;
 }
 #contact-page{
