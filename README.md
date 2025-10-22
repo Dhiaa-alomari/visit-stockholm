@@ -162,7 +162,7 @@ The project will now be cloned locally for you to use.
 
 * Wikipedia.
 
-### Debugs
+### Debugs and some instructions for coding
 * Some bugs fixed by Chatgpt.
 
 ### Inspiration
