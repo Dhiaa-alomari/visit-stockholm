@@ -123,6 +123,10 @@ Make the height of main section min-height:100vh so footer section will always s
 
 Use AI tool to upscaling: https://imgupscaler.ai.
 
+4.  <u>Contrast between text and background color was not perfect</u>
+
+Change background color from light blue to dark blue.
+
 ## Deployment
 
 ### GitHub Pages
