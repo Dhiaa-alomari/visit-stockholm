@@ -314,7 +314,7 @@ img{
 .Intrested .card:focus{
   transform:translateY(-15px)
 }
-.Intrested .card h4{
+.Intrested .card h3{
   margin-bottom: 10px;
   font-size: 20px;
 }
