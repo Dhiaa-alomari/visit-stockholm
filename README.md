@@ -111,13 +111,17 @@ As a visitor to the website, I want to...
 *   **As someone** looking for inspiration, **I want to** view beautiful photos of different Stockholm locations in the gallery, **so that I can** discover new places to visit.
 
 ##  Debug
-1.  <u>Open social media links in new tab!</U>
+1.  <u>Open social media links not in new tab</U>
 
 Add target="_blank" attribute to the anchor HTML elements for social media icons in the footer section. This ensures that users can follow social media accounts without leaving the main website.
 
-2.  <u>Footer of contact-us page not stay at bottom of the page!</u>
+2.  <u>Footer of contact-us page not stay at bottom of the page</u>
 
 Make the height of main section min-height:100vh so footer section will always stay at bottom of the page.
+
+3.  <u>Increase images quality in gallery page and home page</u>
+
+Use AI tool to upscaling: https://imgupscaler.ai.
 
 ## Deployment
 
