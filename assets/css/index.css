@@ -1,5 +1,5 @@
 :root{
-  --primary-color:#047aed;
+  --primary-color:#005db7;
   --secondary-color:#1c3fa8;
   --dark-color:#002240;
   --light-color:#f4f4f4;
@@ -253,16 +253,15 @@ img{
 /*Showcase*/
 .showcase{
   background:url("../images/stockholm-banner.webp") no-repeat center center/ cover;
+  background-attachment: fixed;
   height:400px;
-  background-color: var(--primary-color);
-  color:#fff;
   position: relative;
 }
 .showcase h2{
   font-size: 40px;
   color: yellow;
   font-weight: bolder;
-  text-shadow: 4px 4px 2px #000, 0 0 20px rgba(0, 0, 0, 0.7);
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7), 0px 0px 12px rgba(0, 0, 0, 0.3);
 }
 .showcase p{
   margin: 20px 0;
@@ -446,6 +445,10 @@ input[type="text"],input[type="email"], textarea{
  .stats{
     padding: 100px 30px;
     animation:FadeIn 5s ease
+ }
+ .showcase{
+    background:url("../images/stockholm-banner.webp") no-repeat center center/ cover;
+    background-attachment: scroll;
  }
  .showcase-text{
     text-align: center;
